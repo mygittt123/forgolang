@@ -1,0 +1,2 @@
+# forgolang
+about golang langviges
